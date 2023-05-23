@@ -28,13 +28,13 @@ import (
 
 	"github.com/julienschmidt/httprouter"
 
-	"github.com/cayleygraph/cayley/clog"
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/query"
-	"github.com/cayleygraph/cayley/query/shape"
+	"github.com/pymjer/cayley/clog"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/query"
+	"github.com/pymjer/cayley/query/shape"
 
 	// Writer is imported for writers to be registered
-	_ "github.com/cayleygraph/cayley/writer"
+	_ "github.com/pymjer/cayley/writer"
 	"github.com/cayleygraph/quad"
 	"github.com/cayleygraph/quad/voc"
 )
