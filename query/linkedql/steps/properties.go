@@ -3,9 +3,9 @@ package steps
 import (
 	"fmt"
 
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/query/linkedql"
-	"github.com/cayleygraph/cayley/query/path"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/query/linkedql"
+	"github.com/pymjer/cayley/query/path"
 	"github.com/cayleygraph/quad"
 	"github.com/cayleygraph/quad/voc"
 )

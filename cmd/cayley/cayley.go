@@ -25,19 +25,19 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/cayleygraph/cayley/cmd/cayley/command"
+	"github.com/pymjer/cayley/cmd/cayley/command"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 
-	"github.com/cayleygraph/cayley/clog"
-	_ "github.com/cayleygraph/cayley/clog/glog"
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/version"
+	"github.com/pymjer/cayley/clog"
+	_ "github.com/pymjer/cayley/clog/glog"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/version"
 	"github.com/cayleygraph/quad"
 
 	// Load supported backends
-	_ "github.com/cayleygraph/cayley/graph/all"
+	_ "github.com/pymjer/cayley/graph/all"
 
 	// Load all supported quad formats.
 	_ "github.com/cayleygraph/quad/dot"
@@ -49,13 +49,13 @@ import (
 	_ "github.com/cayleygraph/quad/pquads"
 
 	// Load writer registry
-	_ "github.com/cayleygraph/cayley/writer"
+	_ "github.com/pymjer/cayley/writer"
 
 	// Load supported query languages
-	_ "github.com/cayleygraph/cayley/query/gizmo"
-	_ "github.com/cayleygraph/cayley/query/graphql"
-	_ "github.com/cayleygraph/cayley/query/mql"
-	_ "github.com/cayleygraph/cayley/query/sexp"
+	_ "github.com/pymjer/cayley/query/gizmo"
+	_ "github.com/pymjer/cayley/query/graphql"
+	_ "github.com/pymjer/cayley/query/mql"
+	_ "github.com/pymjer/cayley/query/sexp"
 )
 
 var (

@@ -7,7 +7,7 @@ import (
 
 	_ "github.com/hidal-go/hidalgo/legacy/nosql/nosqltest/all"
 
-	"github.com/cayleygraph/cayley/graph/nosql/nosqltest"
+	"github.com/pymjer/cayley/graph/nosql/nosqltest"
 	hnosqltest "github.com/hidal-go/hidalgo/legacy/nosql/nosqltest"
 )
 

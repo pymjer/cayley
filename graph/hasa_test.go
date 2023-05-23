@@ -21,8 +21,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/graph/iterator"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/graph/iterator"
 	"github.com/cayleygraph/quad"
 )
 

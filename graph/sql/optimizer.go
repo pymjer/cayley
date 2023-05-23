@@ -20,8 +20,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/cayleygraph/cayley/graph/iterator"
-	"github.com/cayleygraph/cayley/query/shape"
+	"github.com/pymjer/cayley/graph/iterator"
+	"github.com/pymjer/cayley/query/shape"
 	"github.com/cayleygraph/quad"
 )
 

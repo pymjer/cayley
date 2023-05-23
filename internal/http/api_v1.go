@@ -3,8 +3,8 @@ package http
 import (
 	"net/http"
 
-	"github.com/cayleygraph/cayley/graph"
-	cayleyhttp "github.com/cayleygraph/cayley/server/http"
+	"github.com/pymjer/cayley/graph"
+	cayleyhttp "github.com/pymjer/cayley/server/http"
 	"github.com/julienschmidt/httprouter"
 )
 

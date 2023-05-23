@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"sort"
 
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/graph/refs"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/graph/refs"
 	"github.com/cayleygraph/quad"
 )
 

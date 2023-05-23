@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	. "github.com/cayleygraph/cayley/graph/iterator"
+	. "github.com/pymjer/cayley/graph/iterator"
 )
 
 func TestUniqueIteratorBasics(t *testing.T) {

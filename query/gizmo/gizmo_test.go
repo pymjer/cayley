@@ -21,11 +21,11 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/graph/graphtest/testutil"
-	_ "github.com/cayleygraph/cayley/graph/memstore"
-	"github.com/cayleygraph/cayley/query"
-	_ "github.com/cayleygraph/cayley/writer"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/graph/graphtest/testutil"
+	_ "github.com/pymjer/cayley/graph/memstore"
+	"github.com/pymjer/cayley/query"
+	_ "github.com/pymjer/cayley/writer"
 	"github.com/cayleygraph/quad"
 
 	// register global namespace for tests

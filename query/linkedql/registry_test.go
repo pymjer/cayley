@@ -3,9 +3,9 @@ package linkedql
 import (
 	"testing"
 
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/query"
-	"github.com/cayleygraph/cayley/query/path"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/query"
+	"github.com/pymjer/cayley/query/path"
 	"github.com/cayleygraph/quad/voc"
 
 	"github.com/stretchr/testify/require"

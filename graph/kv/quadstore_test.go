@@ -13,11 +13,11 @@ import (
 	hkv "github.com/hidal-go/hidalgo/kv"
 	"github.com/stretchr/testify/require"
 
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/graph/kv"
-	"github.com/cayleygraph/cayley/graph/kv/btree"
-	"github.com/cayleygraph/cayley/graph/refs"
-	"github.com/cayleygraph/cayley/writer"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/graph/kv"
+	"github.com/pymjer/cayley/graph/kv/btree"
+	"github.com/pymjer/cayley/graph/refs"
+	"github.com/pymjer/cayley/writer"
 	"github.com/cayleygraph/quad"
 )
 

@@ -7,9 +7,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/cayleygraph/cayley"
-	"github.com/cayleygraph/cayley/graph"
-	_ "github.com/cayleygraph/cayley/graph/kv/bolt"
+	"github.com/pymjer/cayley"
+	"github.com/pymjer/cayley/graph"
+	_ "github.com/pymjer/cayley/graph/kv/bolt"
 	"github.com/cayleygraph/quad"
 )
 

@@ -17,7 +17,7 @@ package iterator
 import (
 	"regexp"
 
-	"github.com/cayleygraph/cayley/graph/refs"
+	"github.com/pymjer/cayley/graph/refs"
 	"github.com/cayleygraph/quad"
 )
 

@@ -6,9 +6,9 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/graph/memstore"
-	"github.com/cayleygraph/cayley/schema"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/graph/memstore"
+	"github.com/pymjer/cayley/schema"
 	"github.com/cayleygraph/quad"
 	"github.com/cayleygraph/quad/voc"
 )

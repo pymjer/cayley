@@ -26,12 +26,12 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/graph/graphtest/testutil"
-	"github.com/cayleygraph/cayley/internal"
-	"github.com/cayleygraph/cayley/query"
-	"github.com/cayleygraph/cayley/query/gizmo"
-	_ "github.com/cayleygraph/cayley/writer"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/graph/graphtest/testutil"
+	"github.com/pymjer/cayley/internal"
+	"github.com/pymjer/cayley/query"
+	"github.com/pymjer/cayley/query/gizmo"
+	_ "github.com/pymjer/cayley/writer"
 )
 
 const (

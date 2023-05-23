@@ -5,9 +5,9 @@ package postgres
 import (
 	"testing"
 
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/graph/sql/sqltest"
-	"github.com/cayleygraph/cayley/internal/dock"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/graph/sql/sqltest"
+	"github.com/pymjer/cayley/internal/dock"
 	"github.com/lib/pq"
 )
 

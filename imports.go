@@ -1,11 +1,11 @@
 package cayley
 
 import (
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/graph/iterator"
-	_ "github.com/cayleygraph/cayley/graph/memstore"
-	"github.com/cayleygraph/cayley/query/path"
-	_ "github.com/cayleygraph/cayley/writer"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/graph/iterator"
+	_ "github.com/pymjer/cayley/graph/memstore"
+	"github.com/pymjer/cayley/query/path"
+	_ "github.com/pymjer/cayley/writer"
 	"github.com/cayleygraph/quad"
 )
 

@@ -17,9 +17,9 @@ package memstore
 import (
 	"context"
 
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/graph/iterator"
-	"github.com/cayleygraph/cayley/graph/refs"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/graph/iterator"
+	"github.com/pymjer/cayley/graph/refs"
 )
 
 var _ iterator.Shape = (*allIterator)(nil)

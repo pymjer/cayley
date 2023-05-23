@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/graph/memstore"
-	chttp "github.com/cayleygraph/cayley/internal/http"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/graph/memstore"
+	chttp "github.com/pymjer/cayley/internal/http"
 	"github.com/cayleygraph/quad"
 	"github.com/cayleygraph/quad/jsonld"
 	"github.com/phayes/freeport"

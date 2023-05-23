@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/cayleygraph/cayley/graph/refs"
+	"github.com/pymjer/cayley/graph/refs"
 	"github.com/cayleygraph/quad"
 	"github.com/stretchr/testify/require"
 )

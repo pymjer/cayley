@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/cayleygraph/cayley/graph/refs"
-	"github.com/cayleygraph/cayley/query"
+	"github.com/pymjer/cayley/graph/refs"
+	"github.com/pymjer/cayley/query"
 	"github.com/cayleygraph/quad"
 	"github.com/cayleygraph/quad/jsonld"
 	"github.com/piprate/json-gold/ld"

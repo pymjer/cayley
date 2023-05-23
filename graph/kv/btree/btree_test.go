@@ -17,8 +17,8 @@ package btree
 import (
 	"testing"
 
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/graph/kv/kvtest"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/graph/kv/kvtest"
 	hkv "github.com/hidal-go/hidalgo/kv"
 	"github.com/hidal-go/hidalgo/kv/kvdebug"
 )

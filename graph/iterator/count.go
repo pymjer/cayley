@@ -3,7 +3,7 @@ package iterator
 import (
 	"context"
 
-	"github.com/cayleygraph/cayley/graph/refs"
+	"github.com/pymjer/cayley/graph/refs"
 	"github.com/cayleygraph/quad"
 )
 

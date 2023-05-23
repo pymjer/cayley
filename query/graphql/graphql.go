@@ -14,11 +14,11 @@ import (
 	"github.com/dennwc/graphql/language/lexer"
 	"github.com/dennwc/graphql/language/parser"
 
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/graph/iterator"
-	"github.com/cayleygraph/cayley/graph/refs"
-	"github.com/cayleygraph/cayley/query"
-	"github.com/cayleygraph/cayley/query/path"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/graph/iterator"
+	"github.com/pymjer/cayley/graph/refs"
+	"github.com/pymjer/cayley/query"
+	"github.com/pymjer/cayley/query/path"
 	"github.com/cayleygraph/quad"
 )
 

@@ -7,8 +7,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/cayleygraph/cayley/clog"
-	"github.com/cayleygraph/cayley/internal"
+	"github.com/pymjer/cayley/clog"
+	"github.com/pymjer/cayley/internal"
 	"github.com/cayleygraph/quad"
 )
 

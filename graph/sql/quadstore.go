@@ -9,12 +9,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/cayleygraph/cayley/clog"
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/graph/iterator"
-	graphlog "github.com/cayleygraph/cayley/graph/log"
-	"github.com/cayleygraph/cayley/graph/refs"
-	"github.com/cayleygraph/cayley/internal/lru"
+	"github.com/pymjer/cayley/clog"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/graph/iterator"
+	graphlog "github.com/pymjer/cayley/graph/log"
+	"github.com/pymjer/cayley/graph/refs"
+	"github.com/pymjer/cayley/internal/lru"
 	"github.com/cayleygraph/quad"
 	"github.com/cayleygraph/quad/pquads"
 )

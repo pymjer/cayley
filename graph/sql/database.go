@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/graph/log"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/graph/log"
 	"github.com/cayleygraph/quad"
 )
 

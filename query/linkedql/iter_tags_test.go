@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/cayleygraph/cayley/graph/memstore"
+	"github.com/pymjer/cayley/graph/memstore"
 	"github.com/cayleygraph/quad"
 	"github.com/piprate/json-gold/ld"
 	"github.com/stretchr/testify/require"

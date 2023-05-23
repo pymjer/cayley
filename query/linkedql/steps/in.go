@@ -1,7 +1,7 @@
 package steps
 
 import (
-	"github.com/cayleygraph/cayley/query/linkedql"
+	"github.com/pymjer/cayley/query/linkedql"
 )
 
 func init() {

@@ -21,7 +21,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/cayleygraph/cayley/query/shape"
+	"github.com/pymjer/cayley/query/shape"
 	"github.com/cayleygraph/quad"
 )
 

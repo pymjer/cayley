@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/cayleygraph/cayley/clog"
+	"github.com/pymjer/cayley/clog"
 
 	// Load all supported quad formats.
 	"github.com/cayleygraph/quad"

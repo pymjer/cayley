@@ -22,12 +22,12 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/graph/graphtest"
-	"github.com/cayleygraph/cayley/graph/iterator"
-	"github.com/cayleygraph/cayley/graph/refs"
-	"github.com/cayleygraph/cayley/query/shape"
-	"github.com/cayleygraph/cayley/writer"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/graph/graphtest"
+	"github.com/pymjer/cayley/graph/iterator"
+	"github.com/pymjer/cayley/graph/refs"
+	"github.com/pymjer/cayley/query/shape"
+	"github.com/pymjer/cayley/writer"
 	"github.com/cayleygraph/quad"
 )
 

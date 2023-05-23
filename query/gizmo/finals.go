@@ -17,7 +17,7 @@ package gizmo
 import (
 	"github.com/dop251/goja"
 
-	"github.com/cayleygraph/cayley/graph/iterator"
+	"github.com/pymjer/cayley/graph/iterator"
 	"github.com/cayleygraph/quad"
 )
 

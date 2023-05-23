@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/cayleygraph/cayley"
+	"github.com/pymjer/cayley"
 	"github.com/cayleygraph/quad"
 )
 

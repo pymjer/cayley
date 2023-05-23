@@ -3,7 +3,7 @@ package linkedql
 import (
 	"context"
 
-	"github.com/cayleygraph/cayley/query"
+	"github.com/pymjer/cayley/query"
 	"github.com/piprate/json-gold/ld"
 )
 

@@ -30,7 +30,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/cayleygraph/cayley/graph/refs"
+	"github.com/pymjer/cayley/graph/refs"
 	"github.com/cayleygraph/quad"
 )
 

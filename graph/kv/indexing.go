@@ -24,11 +24,11 @@ import (
 	"sort"
 	"time"
 
-	"github.com/cayleygraph/cayley/clog"
-	"github.com/cayleygraph/cayley/graph"
-	graphlog "github.com/cayleygraph/cayley/graph/log"
-	"github.com/cayleygraph/cayley/graph/proto"
-	"github.com/cayleygraph/cayley/graph/refs"
+	"github.com/pymjer/cayley/clog"
+	"github.com/pymjer/cayley/graph"
+	graphlog "github.com/pymjer/cayley/graph/log"
+	"github.com/pymjer/cayley/graph/proto"
+	"github.com/pymjer/cayley/graph/refs"
 	"github.com/cayleygraph/quad"
 	"github.com/cayleygraph/quad/pquads"
 

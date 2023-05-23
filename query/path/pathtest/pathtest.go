@@ -22,12 +22,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cayleygraph/cayley/graph"
-	"github.com/cayleygraph/cayley/graph/graphtest/testutil"
-	"github.com/cayleygraph/cayley/graph/iterator"
-	"github.com/cayleygraph/cayley/query/path"
-	"github.com/cayleygraph/cayley/query/shape"
-	_ "github.com/cayleygraph/cayley/writer"
+	"github.com/pymjer/cayley/graph"
+	"github.com/pymjer/cayley/graph/graphtest/testutil"
+	"github.com/pymjer/cayley/graph/iterator"
+	"github.com/pymjer/cayley/query/path"
+	"github.com/pymjer/cayley/query/shape"
+	_ "github.com/pymjer/cayley/writer"
 	"github.com/cayleygraph/quad"
 	"github.com/stretchr/testify/require"
 )

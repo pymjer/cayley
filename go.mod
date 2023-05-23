@@ -1,4 +1,4 @@
-module github.com/cayleygraph/cayley
+module github.com/pymjer/cayley
 
 go 1.12
 
@@ -59,4 +59,4 @@ require (
 	gopkg.in/olivere/elastic.v5 v5.0.81 // indirect
 )
 
-replace github.com/Sirupsen/logrus => github.com/Sirupsen/logrus v1.0.1
+// replace github.com/Sirupsen/logrus => github.com/Sirupsen/logrus v1.0.1

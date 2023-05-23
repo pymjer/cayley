@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cayleygraph/cayley/schema"
+	"github.com/pymjer/cayley/schema"
 	"github.com/cayleygraph/quad"
 )
 

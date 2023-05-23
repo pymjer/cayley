@@ -10,8 +10,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cayleygraph/cayley/graph/memstore"
-	"github.com/cayleygraph/cayley/query/linkedql"
+	"github.com/pymjer/cayley/graph/memstore"
+	"github.com/pymjer/cayley/query/linkedql"
 	"github.com/cayleygraph/quad"
 	"github.com/cayleygraph/quad/jsonld"
 	"github.com/cayleygraph/quad/voc"
